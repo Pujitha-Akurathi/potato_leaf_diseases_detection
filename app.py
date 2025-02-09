@@ -5,7 +5,7 @@ import gdown
 import os
 
 file_id = "1iotZxZSYGBXkZBSP-kbQbT6QcQ6gyGmE"
-url = 'https://drive.google.com/file/d/1iotZxZSYGBXkZBSP-kbQbT6QcQ6gyGmE'
+url = 'https://drive.google.com/uc?id=1iotZxZSYGBXkZBSP-kbQbT6QcQ6gyGmE'
 model_path = "trained_plant_disease_model.keras"
 
 
