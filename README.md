@@ -18,11 +18,13 @@ You can try the app live here: [Streamlit App](https://potatoleafdiseasesdetecti
 - **requirements.txt** specifies project dependencies for reproducibility.
 
 ## Project Structure
+```bash
 ├── app.py
 ├── Train_potatoleaf_disease.ipynb
 ├── Diseases.jpg
 ├── requirements.txt
 └── README.md
+```
 
 ## Usage / Setup
 1. Clone the repository:
@@ -34,9 +36,9 @@ You can try the app live here: [Streamlit App](https://potatoleafdiseasesdetecti
    pip install -r requirements.txt
 
 3. Run the app:
-  ```bash
-  streamlit run app.py
-```
+   ```bash
+   streamlit run app.py
+   ```
 4. Interact with the UI to upload leaf images and receive disease predictions.
 
 ## Results
